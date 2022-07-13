@@ -1,4 +1,4 @@
-package com.reneruprecht.swipe_and_cook
+package com.reneruprecht.swipe_and_cook.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -10,7 +10,7 @@ import androidx.compose.material.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.reneruprecht.swipe_and_cook.ui.theme.SwipeandcookTheme
+import com.reneruprecht.swipe_and_cook.presentation.ui.theme.SwipeandcookTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

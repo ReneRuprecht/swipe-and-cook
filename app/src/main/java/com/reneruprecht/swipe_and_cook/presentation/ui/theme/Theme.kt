@@ -1,4 +1,4 @@
-package com.reneruprecht.swipe_and_cook.ui.theme
+package com.reneruprecht.swipe_and_cook.presentation.ui.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme

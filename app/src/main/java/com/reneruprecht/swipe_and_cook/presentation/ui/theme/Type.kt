@@ -1,4 +1,4 @@
-package com.reneruprecht.swipe_and_cook.ui.theme
+package com.reneruprecht.swipe_and_cook.presentation.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle
